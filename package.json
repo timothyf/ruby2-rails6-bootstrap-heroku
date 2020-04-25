@@ -16,6 +16,7 @@
     "@rails/ujs": "^6.0.2",
     "@rails/webpacker": "^5.1.1",
     "bootstrap": "^4.4.1",
+    "data-confirm-modal": "^1.6.2",
     "exports-loader": "^0.7.0",
     "jquery": "^3.5.0",
     "popper.js": "^1.16.1",
